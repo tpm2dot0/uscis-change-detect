@@ -1,0 +1,41 @@
+{
+  "popup": {
+    "title": "USCIS 变更检测",
+    "loading": "加载中...",
+    "noCases": "暂无追踪案件。请访问 my.uscis.gov 并点击案件旁的「检查变更」。",
+    "changed": "有变更",
+    "clearCase": "移除案件",
+    "openUscis": "打开 My USCIS"
+  },
+  "overlay": {
+    "changed": "有变更",
+    "firstCheck": "首次检查",
+    "noHistory": "这是首次检查该案件。下次访问时将检测变更。",
+    "noChanges": "自上次检查以来未检测到变更。",
+    "changes": "检测到变更",
+    "caseDetails": "案件详情",
+    "caseStatus": "案件状态",
+    "receiptInfo": "回执信息",
+    "tabSummary": "摘要",
+    "tabRawDiff": "原始 Diff",
+    "noDiff": "— 无变更"
+  },
+  "summary": {
+    "overview": "概览",
+    "formType": "表格类型",
+    "formName": "表格名称",
+    "applicant": "申请人",
+    "submitted": "提交日期",
+    "channel": "提交方式",
+    "statusTitle": "状态",
+    "statusHeading": "状态",
+    "actionCode": "操作代码",
+    "actionDate": "操作日期",
+    "receiptTitle": "回执信息",
+    "form": "表格",
+    "location": "地点",
+    "receiptDate": "接收日期",
+    "subtype": "子类型",
+    "timeline": "事件历史"
+  }
+}

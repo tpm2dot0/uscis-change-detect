@@ -1,0 +1,10 @@
+@import '@fontsource-variable/geist';
+@import '@fontsource-variable/geist-mono';
+@import '../../styles/globals.css';
+
+body {
+  width: 360px;
+  min-height: 200px;
+  margin: 0;
+  font-family: 'Geist Variable', system-ui, sans-serif;
+}

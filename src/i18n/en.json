@@ -1,0 +1,41 @@
+{
+  "popup": {
+    "title": "USCIS Change Detect",
+    "loading": "Loading...",
+    "noCases": "No tracked cases yet. Visit my.uscis.gov and click \"Check Changes\" next to a case.",
+    "changed": "Changed",
+    "clearCase": "Remove case",
+    "openUscis": "Open My USCIS"
+  },
+  "overlay": {
+    "changed": "Changed",
+    "firstCheck": "First check",
+    "noHistory": "This is the first time checking this case. Changes will be detected on your next visit.",
+    "noChanges": "No changes detected since last check.",
+    "changes": "Changes Detected",
+    "caseDetails": "Case Details",
+    "caseStatus": "Case Status",
+    "receiptInfo": "Receipt Info",
+    "tabSummary": "Summary",
+    "tabRawDiff": "Raw Diff",
+    "noDiff": "— no changes"
+  },
+  "summary": {
+    "overview": "Overview",
+    "formType": "Form Type",
+    "formName": "Form Name",
+    "applicant": "Applicant",
+    "submitted": "Submitted",
+    "channel": "Channel",
+    "statusTitle": "Status",
+    "statusHeading": "Status",
+    "actionCode": "Action Code",
+    "actionDate": "Action Date",
+    "receiptTitle": "Receipt Info",
+    "form": "Form",
+    "location": "Location",
+    "receiptDate": "Receipt Date",
+    "subtype": "Subtype",
+    "timeline": "Event History"
+  }
+}
