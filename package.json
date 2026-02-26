@@ -36,6 +36,7 @@
     "@types/diff": "^6.0.0",
     "@types/react": "^19.2.13",
     "@types/react-dom": "^19.2.3",
+    "@wxt-dev/auto-icons": "^1.1.1",
     "@wxt-dev/module-react": "^1.1.5",
     "autoprefixer": "^10.4.0",
     "postcss": "^8.4.0",
@@ -43,5 +44,10 @@
     "typescript": "^5.9.3",
     "vitest": "^4.0.18",
     "wxt": "^0.20.18"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "sharp"
+    ]
   }
 }
