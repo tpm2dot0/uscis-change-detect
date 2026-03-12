@@ -26,6 +26,7 @@
     "formName": "表格名称",
     "applicant": "申请人",
     "submitted": "提交日期",
+    "updatedAt": "更新日期",
     "channel": "提交方式",
     "statusTitle": "状态",
     "statusHeading": "状态",

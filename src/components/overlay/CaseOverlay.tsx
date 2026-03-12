@@ -62,6 +62,9 @@ export function CaseOverlay({ data, onClose }: CaseOverlayProps) {
               onClick={() => setActiveTab('summary')}
             >
               {t('overlay.tabSummary')}
+              {anyChanges && (
+                <span className="ml-1.5 inline-flex h-2 w-2 rounded-full bg-destructive" />
+              )}
             </button>
             <button
               type="button"

@@ -7,6 +7,7 @@ export interface CaseOverview {
   formName: string;
   applicantName: string;
   submissionDate: string;
+  updatedAt: string;
   channel: string;
   closed: boolean;
 }
@@ -40,6 +41,7 @@ export function parseOverview(details: CaseDetails | null): CaseOverview | null 
     formName: details.formName,
     applicantName: details.applicantName,
     submissionDate: details.submissionDate,
+    updatedAt: details.updatedAt ?? '',
     channel: details.elisChannelType,
     closed: details.closed,
   };
